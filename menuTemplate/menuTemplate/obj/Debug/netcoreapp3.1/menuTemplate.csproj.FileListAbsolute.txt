@@ -26,3 +26,10 @@ C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming
 C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.dll
 C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.pdb
 C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.genruntimeconfig.cache
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.csproj.AssemblyReference.cache
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.AssemblyInfoInputs.cache
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.AssemblyInfo.cs
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.csproj.CoreCompileInputs.cache
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.dll
+C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\endOfCourseRevision\10. practiceCA4\menuTemplate\menuTemplate\menuTemplate\obj\Debug\netcoreapp3.1\menuTemplate.pdb
