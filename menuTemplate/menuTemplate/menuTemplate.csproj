@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\T440P i5\Desktop\BSc Computing\Year One\Semester 2\Intro to Programming 2\Menu.cs" Link="Menu.cs" />
+  </ItemGroup>
+
+</Project>
